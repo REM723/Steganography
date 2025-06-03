@@ -23,5 +23,5 @@ Ensure you have **Python 3.x** installed on your system.
 ### Steps:
 1. Clone the repository:
 
-   git clone https://github.com/REM723/steganography-project.git
+   git clone https://github.com/REM723/Steganography.git
    cd steganography-project
